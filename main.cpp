@@ -1,8 +1,10 @@
-#include <iostream>   // Girdi ve çıktı işlemleri için gerekli kütüphane.
-using namespace std;  // Tekrar tekrar std yazmamak için kullanırız.
+#include <iostream>   
+using namespace std; 
 int main() 
-{   // 1.DERS: Ekrana Yazdırma ve Alt Satıra Geçme
-    cout << "Merhaba dünya" << endl; // 'endl' imleci alt satıra taşır.
-    cout << "Bu bir programlama dersidir \n"; // '\n' de alt satıra geçmek için kullanır.
-    return 0 ;
+{   // 2.DERS: Matematiksel İşlemler
+    // Sayıları tırnak içine almazsan bilgisayar onları sayı olarak görür ve işlem yapar.
+    cout << "5 ile 8'in toplami sudur:" ;
+    cout << (5+8) << endl;
+    cout << "8'den 5 cikarsa sonuc:" << (8-5) << endl;
+    
 }
