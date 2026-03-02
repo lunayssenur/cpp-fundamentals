@@ -13,3 +13,21 @@ Core Concepts & Examples
 using namespace std
 cout for console output
 endl and \n for line breaks
+
+🔹 Basic Output Operations
+♦️`#include <iostream>`  
+♦️`using namespace std`  
+♦️`cout` for console output  
+♦️`endl` and `\n` for line breaks
+
+**Example:**
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World!" << endl;
+    cout << "This is a programming language." << endl;
+    return 0;
+}
