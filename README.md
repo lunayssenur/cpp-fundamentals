@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning-success)
 ![Level](https://img.shields.io/badge/Level-Beginner-orange)
 
-⚪️Owerviev
+⚪️Owerview
 A structured collection of foundational C++ programming exercises.
 This repository documents core programming concepts and hands-on practice during my Computer Programming studies.
 
